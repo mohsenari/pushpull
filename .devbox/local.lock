@@ -1,0 +1,7 @@
+{
+  "config_hash": "70991442f3741e7d81cf0fc758704a2e1e988d3cedf3e5d88b563161c2e90bf2",
+  "devbox_version": "0.0.0-dev",
+  "lock_file_hash": "fcc2444c5a63894394fd732c7a516e598a93aee76d39bb6fd74f572bf8c4255b",
+  "nix_profile_manifest_hash": "",
+  "nix_print_dev_env_hash": ""
+}
